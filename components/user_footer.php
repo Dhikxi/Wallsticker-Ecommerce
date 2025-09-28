@@ -47,10 +47,10 @@
 	    </div>	
 	    <div class="box">
 	    	<h3>contact us</h3>
-	    	<a href=""><i class="fas fa-phone-alt"></i>+91-8903383250</a>
-	    	<a href=""><i class="fas fa-phone-alt"></i>+91-8754064676</a>
-	    	<a href=""><i class="fas fa-envelope"></i>detchi@gmail.com</a>
-	    	<a href=""><i class="fas fa-map-marker-alt"></i>M.Reddiapatti</a>
+	    	<a href=""><i class="fas fa-phone-alt"></i>+01 9876543219</a>
+	    	<a href=""><i class="fas fa-phone-alt"></i>+91-90876543219</a>
+	    	<a href=""><i class="fas fa-envelope"></i>dhee@gmail.com</a>
+	    	<a href=""><i class="fas fa-map-marker-alt"></i>VNR</a>
 	    	<div class="icons">
 	    		<i class="fab fa-facebook"></i>
 			    <i class="fab fa-twitter"></i>
@@ -61,7 +61,7 @@
 	    </div>			
 	</div>
 	<div class="bottom">
-		<p>created by R.Detchika All rights reserved !</p>
+		<p>created by Dhee All rights reserved !</p>
 		<a href="admin/register.php">admin</a>
 	</div>	
 </footer>
